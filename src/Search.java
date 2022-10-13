@@ -18,6 +18,6 @@ public class Search {
     public static void main(String[] args) {
 
         int[] numbers = {60, 55, 34, 23, 14, 5, 4, 3, 2, 1};
-        searchx(numbers, 8);    
+        searchx(numbers, 8);         
     }
 }
